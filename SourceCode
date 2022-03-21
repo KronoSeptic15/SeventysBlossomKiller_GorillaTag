@@ -1,0 +1,13 @@
+#Source Code!
+        void Update()
+        {
+            GameObject cherryBlossoms = GameObject.Find("Cherry Blossoms (2)");
+            if(cherryBlossoms != null)
+            {
+                Destroy(cherryBlossoms);
+            }
+        }
+        
+        
+https://imgur.com/gallery/tHUge
+        
